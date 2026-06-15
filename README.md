@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Joud</h1>
 
-<h3>AI & Mobile App Developer</h3>
+<h3>AI & Full‑Stack Developer</h3>
 
 <p>
   Passionate about building smart applications, machine learning solutions, and clean user experiences.
