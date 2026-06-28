@@ -30,24 +30,9 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=99999&color=8B949E&center=true&vCenter=true&multiline=false&width=700&lines=Also+worked+with%3A+Java+%7C+C%2B%2B+%7C+TensorFlow+%7C+PyTorch+%7C+Pandas+%7C+Scikit-learn+%7C+MySQL+%7C+Oracle+%7C+Figma" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jjoud&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjoud&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
-
 ---
 
 <div align="center">
-
-📬 **Let's connect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joud-alharbi1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jjoud.github.io/My-portfolio/)
