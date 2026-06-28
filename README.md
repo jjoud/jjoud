@@ -1,14 +1,16 @@
 <div align="center">
+
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Joud;AI+%26+Full-Stack+Developer;Building+smart+applications+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-🤖 **AI & Full-Stack Developer** 
+🤖 **AI & Full-Stack Developer** · 🇸🇦 Saudi Arabia
 
-*Passionate about building smart applications, ML solutions, and clean user experiences.*
+*Passionate about building smart applications, ML solutions, and clean user experiences — aligned with Saudi Vision 2030.*
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✓-2ea043?style=flat-square&labelColor=0d1117)
 ![CS Graduate](https://img.shields.io/badge/CS%20@%20Qassim-Excellent%20with%20Honours-1f6feb?style=flat-square&labelColor=0d1117)
 ![AI Developer](https://img.shields.io/badge/AI%20Agent%20Developer-⚡-6e40c9?style=flat-square&labelColor=0d1117)
+
 </div>
 
 ---
@@ -27,19 +29,31 @@
   <img src="https://img.shields.io/badge/C%23-178600?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
+<!-- Scrolling marquee via SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=99999&color=8B949E&center=true&vCenter=true&multiline=false&width=700&lines=Also+worked+with%3A+Java+%7C+C%2B%2B+%7C+TensorFlow+%7C+PyTorch+%7C+Pandas+%7C+Scikit-learn+%7C+MySQL+%7C+Oracle+%7C+Figma" />
 </div>
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Stack | Highlight |
+|--------|-------|-----------|
+| 💊 **KidneyCare AI** | XGBoost · FastAPI · AWS · FHIR | Dialysis complication prediction |
+| 🧾 **WaslTech** | Flutter · FastAPI · LangChain · ZATCA | Digital invoice platform |
+| 🎙 **PlusCX / 2minute** | CrewAI · FastAPI · Voice AI | Arabic customer support agent |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jjoud&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjoud&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
 ---
@@ -48,8 +62,8 @@
 
 📬 **Let's connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joud-alharbi1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jjoud.github.io/My-portfolio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joudkzn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
