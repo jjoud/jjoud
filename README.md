@@ -1,10 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Joud;AI+%26+Full-Stack+Developer;Building+smart+applications+%F0%9F%A4%96)](https://git.io/typing-svg)
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="80"/>
 
-🤖 **AI & Full-Stack Developer** · 🇸🇦 Saudi Arabia
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I%27m+Joud;AI+%26+Full-Stack+Developer;Building+smart+applications+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✓-2ea043?style=flat-square&labelColor=0d1117)
+🤖 **AI & Full-Stack Developer** 
+
 ![CS Graduate](https://img.shields.io/badge/CS%20@%20Qassim-Excellent%20with%20Honours-1f6feb?style=flat-square&labelColor=0d1117)
 ![AI Developer](https://img.shields.io/badge/AI%20Agent%20Developer-⚡-6e40c9?style=flat-square&labelColor=0d1117)
 
@@ -12,7 +13,7 @@
 
 ---
 
-## 🛠 Stack
+## 🛠 Core Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -28,11 +29,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=99999&color=8B949E&center=true&vCenter=true&width=700&lines=Also%3A+Java+%7C+C%2B%2B+%7C+TensorFlow+%7C+PyTorch+%7C+Pandas+%7C+Scikit-learn+%7C+MySQL+%7C+Figma" />
-</div>
-
-
+---
 
 <div align="center">
 
