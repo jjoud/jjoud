@@ -2,7 +2,7 @@
 
 <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="60"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I%27m+Joud;AI+%26+Full-Stack+Developer;Building+smart+applications+%F0%9F%A4%96)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I%27m+Joud;AI+%26+Full-Stack+Developer;Building+smart+applications+%F0%9F%A4%96)
 
 🤖 **AI & Full-Stack Developer** 
 
