@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="80"/>
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="60"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I%27m+Joud;AI+%26+Full-Stack+Developer;Building+smart+applications+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-🤖 **AI & Full-Stack Developer** · 🇸🇦 Saudi Arabia
+🤖 **AI & Full-Stack Developer** 
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✓-2ea043?style=flat-square&labelColor=0d1117)
-![CS Graduate](https://img.shields.io/badge/CS%20@%20Qassim-Excellent%20with%20Honours-1f6feb?style=flat-square&labelColor=0d1117)
-![AI Developer](https://img.shields.io/badge/AI%20Agent%20Developer-⚡-6e40c9?style=flat-square&labelColor=0d1117)
+*Passionate about building smart applications, ML solutions, and clean user experiences — aligned with Saudi Vision 2030.*
 
-</div>
+*Interested in **Backend Development** and **AI Engineering***
 
 ---
 
